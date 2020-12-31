@@ -4,3 +4,5 @@
 
 
 ![](Images/flow-chart.PNG)
+
+![](Images/output.PNG)
